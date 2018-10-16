@@ -1,6 +1,9 @@
 # classification_baseline
 pytorch，transfer learning based on inception_v4
 
+# version
+## CUDA 8.0, cudnn6, pytorch 1.4.0
+
 ## some tips
 ### 模型及结果文件分别创建，并分别输出
 ### 模型应有另外的python文件
